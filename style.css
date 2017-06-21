@@ -1,0 +1,39 @@
+h1 {
+    font-family: Catamaran;
+    color: green;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    margin-top:10px;
+    
+}
+
+body {
+    background-color: grey;
+}
+
+#signUp {
+    width: 55px;
+    height: 25px;
+    background-color: yellow;
+    color: blue;
+}
+#div1 {
+    float: left;
+    
+}
+
+p {
+    font-family: cursive;
+    color: black;
+    
+}
+
+#like {
+ float:right;
+ margin-top: 100px;
+ padding: 50px;
+ float: right;
+}
